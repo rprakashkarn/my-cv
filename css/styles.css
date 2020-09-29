@@ -1,0 +1,29 @@
+body{
+  background-color: #85FFBD;
+  background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%);
+  font-size: 20px;
+}
+.displayPic{
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
+.info1{
+
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+h1{
+  color: #66BFBF;
+}
+h2{
+  color: #66BFBF
+}
+.contact{
+  font-size: 25px;
+}
